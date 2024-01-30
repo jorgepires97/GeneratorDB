@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ae91ee3-1244-4d4a-9203-cf30af7f7cbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/generator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc/Configs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql/00.create_user_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
